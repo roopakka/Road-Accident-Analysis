@@ -1,4 +1,5 @@
 🚗 Road Accident Analysis Dashboard
+
 📌 Project Overview
 
 This project analyzes road accident patterns using Python, SQL, and Power BI. The objective is to uncover trends in accident occurrences, severity distribution, weather conditions, and high-risk regions to support data-driven decision-making.
