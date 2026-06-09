@@ -21,8 +21,6 @@ This project analyzes road accident patterns using **Python, SQL, and Power BI**
 * **Python**
 
   * Pandas
-  * Matplotlib
-  * Seaborn
 
 * **MySQL**
 
